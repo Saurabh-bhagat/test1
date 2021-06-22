@@ -3,8 +3,6 @@ session_start();
 ?>
 
 <?php
-
-// initializing variables
 $name = "";
 $username = "";
 $usn = "";
